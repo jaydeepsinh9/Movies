@@ -9,8 +9,6 @@ Welcome to the Movie Display project! This full-stack application allows users t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -26,9 +24,9 @@ The primary goal of this project is to provide users with a visually appealing i
 
 ## Screenshots
 
-![Movie Display](/path/to/screenshot1.png)
-![Reviews Page](/path/to/screenshot2.png)
-
+![Movie Display](Pictures/Homepage.png)
+![Reviews Page Before](Pictures/Reviews-before.png)
+![Reviews Page After](Pictures/Reviews-after.png)
 ## Installation
 
 1. Clone the repository.
